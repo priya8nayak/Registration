@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4f7403eddbd903003fa952b0cf9619e1</sp_column>
+        <sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-19 11:42:48</sys_created_on>
+        <sys_id>2fb48faddbd903003fa952b0cf96197c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reg Form</sys_name>
+        <sys_package display_value="Registration Form" source="x_107407_registrat">3d9047a5dbd903003fa952b0cf961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Registration Form">3d9047a5dbd903003fa952b0cf961901</sys_scope>
+        <sys_update_name>sp_instance_2fb48faddbd903003fa952b0cf96197c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-19 11:56:15</sys_updated_on>
+        <title>Reg Form</title>
+        <url>?id=form&amp;table=x_107407_registrat_registration_form_table&amp;sys_id=-1&amp;view=ess</url>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2fb48faddbd903003fa952b0cf96197c"/>
+</record_update>

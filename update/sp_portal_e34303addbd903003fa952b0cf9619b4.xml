@@ -3,13 +3,13 @@
     <sp_portal action="INSERT_OR_UPDATE">
         <css_variables/>
         <default>false</default>
-        <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
+        <homepage display_value="new_page">e4e88b61db1d03003fa952b0cf961921</homepage>
         <icon/>
         <kb_knowledge_base/>
         <kb_knowledge_page/>
         <login_page/>
         <logo/>
-        <notfound_page/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
         <sc_catalog/>
         <sc_catalog_page/>
@@ -21,15 +21,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-19 11:38:04</sys_created_on>
         <sys_id>e34303addbd903003fa952b0cf9619b4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Registration Form</sys_name>
         <sys_package display_value="Registration Form" source="x_107407_registrat">3d9047a5dbd903003fa952b0cf961901</sys_package>
         <sys_policy/>
         <sys_scope display_value="Registration Form">3d9047a5dbd903003fa952b0cf961901</sys_scope>
         <sys_update_name>sp_portal_e34303addbd903003fa952b0cf9619b4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-19 11:38:04</sys_updated_on>
-        <theme/>
+        <sys_updated_on>2017-09-19 12:06:25</sys_updated_on>
+        <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
         <title>Registration Form</title>
         <url_suffix>rf</url_suffix>
     </sp_portal>
