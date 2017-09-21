@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="5736d082db1503003fa952b0cf961949.1.xpath">18e65c82db1503003fa952b0cf9619e2</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Fill the company]]></content>
+        <guide display_value="Incident Form">5736d082db1503003fa952b0cf961949</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 1</name>
+        <options/>
+        <order>1</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-20 12:20:08</sys_created_on>
+        <sys_id>18e61006db1503003fa952b0cf96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 1</sys_name>
+        <sys_package display_value="Registration Form" source="x_107407_registrat">3d9047a5dbd903003fa952b0cf961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Registration Form">3d9047a5dbd903003fa952b0cf961901</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_18e61006db1503003fa952b0cf96191c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-20 12:20:08</sys_updated_on>
+        <target/>
+        <target_ref display_value="5736d082db1503003fa952b0cf961949.1.xpath">18e65c82db1503003fa952b0cf9619e2</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>incident.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=18e61006db1503003fa952b0cf96191c"/>
+</record_update>

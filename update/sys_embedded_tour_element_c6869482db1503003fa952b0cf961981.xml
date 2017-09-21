@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_tour_element">
+    <sys_embedded_tour_element action="INSERT_OR_UPDATE">
+        <cell_edit/>
+        <cell_types/>
+        <col/>
+        <cxs_results/>
+        <element_type>link</element_type>
+        <field/>
+        <field_action/>
+        <field_header/>
+        <filters/>
+        <form_buttons>additional_actions</form_buttons>
+        <form_element>field</form_element>
+        <form_section/>
+        <frameset>nav_filter</frameset>
+        <list_element>ui_action</list_element>
+        <list_header/>
+        <manual_css>.module-node[id="14641d70c611228501114133b3cc88a1"]</manual_css>
+        <name>.module-node[id="14641d70c61122850111413</name>
+        <record_id/>
+        <related_field/>
+        <related_links/>
+        <related_list_element>ui_action</related_list_element>
+        <related_lists/>
+        <related_table/>
+        <row/>
+        <sys_class_name>sys_embedded_tour_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-20 12:18:37</sys_created_on>
+        <sys_id>c6869482db1503003fa952b0cf961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.module-node[id="14641d70c61122850111413</sys_name>
+        <sys_package display_value="Registration Form" source="x_107407_registrat">3d9047a5dbd903003fa952b0cf961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Registration Form">3d9047a5dbd903003fa952b0cf961901</sys_scope>
+        <sys_update_name>sys_embedded_tour_element_c6869482db1503003fa952b0cf961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-20 12:18:37</sys_updated_on>
+        <table/>
+        <type>manual_css</type>
+        <ui_action/>
+    </sys_embedded_tour_element>
+</record_update>

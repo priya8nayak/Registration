@@ -9,7 +9,8 @@
         <css>h1 {&#13;
     color: black;&#13;
     text-align: center;&#13;
-}</css>
+}&#13;
+background-image: url("Portal.jpg");</css>
         <data_table>sp_instance</data_table>
         <demo_data/>
         <description/>
@@ -33,17 +34,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-19 12:02:59</sys_created_on>
         <sys_id>cd494f61db1d03003fa952b0cf96194d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Reg Form</sys_name>
         <sys_package display_value="Registration Form" source="x_107407_registrat">3d9047a5dbd903003fa952b0cf961901</sys_package>
         <sys_policy/>
         <sys_scope display_value="Registration Form">3d9047a5dbd903003fa952b0cf961901</sys_scope>
         <sys_update_name>sp_widget_cd494f61db1d03003fa952b0cf96194d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-19 13:00:51</sys_updated_on>
+        <sys_updated_on>2017-09-20 13:20:50</sys_updated_on>
         <template><![CDATA[<div>
-<h1>
-  For New Registrations, <a href="https://dev23442.service-now.com/rf?id=form&table=x_107407_registrat_registration_form_table&sys_id=-1&view=ess">Click Here</a>
+  <br>
+  <br>
+<h1> <font face="verdana">
+  For New Registrations and to view existing registrations, <br> <br> <a href="https://dev23442.service-now.com/reg?id=reg_page&table=x_107407_registrat_registration_form_table">Click Here</a>
+  </font>
   </h1>
 </div>]]></template>
     </sp_widget>

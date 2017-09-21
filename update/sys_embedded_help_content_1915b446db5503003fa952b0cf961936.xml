@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>sys-help-tours</category>
+        <content><![CDATA[<div>
+ <h1 class="title topictitle1">Embedded help</h1>
+ <div class="body conbody role-embedded_help_admin"> 
+  <p class="p"><span class="ph">Embedded help provides targeted help content to a user in a UI page, based on their role. Some embedded help content comes with the base instance. Your organization can add or replace embedded help content.</span> </p> 
+  <p class="p">If there is embedded help, it displays based on the user&#39;s role. If the content has no associated role, all users see it. If the role is one other than admin, such as itil, then users with the specified role and above see the content. For example, content with the itil role appears for itil, itil_admin, and admin.</p> 
+  <p class="p"><span class="ph">You can add new embedded help content or replace content. Replacing content involves inactivating the existing topic and adding a topic.</span> <span class="ph">If customized content exists, it is displayed when a user opens help in that UI page.</span> <span class="ph">Before writing custom embedded help, plan the content and note the information used in the Embedded Help form. Careful planning ensures that the topic appears for the right page and role.</span></p> 
+ </div>
+ <div class="related-links role-embedded_help_admin"> 
+  <div class="relinfo"> 
+   <div class="reltitle">
+     Related information 
+    <br /> 
+    <div> 
+     <a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Embedded-Help&amp;version&#61;jakarta" target="_blank" rel="nofollow">Embedded help</a> 
+    </div> 
+    <div> 
+     <a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Embedded-Help-Plan&amp;version&#61;jakarta" target="_blank" rel="nofollow">Embedded help planning</a> 
+    </div> 
+    <div> 
+     <a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Copy-Embedded-Help&amp;version&#61;jakarta" target="_blank" rel="nofollow">Add custom embedded help from a copy</a> 
+    </div> 
+   </div> 
+  </div> 
+ </div>
+</div>]]></content>
+        <last_sync>2017-09-20 14:32:05</last_sync>
+        <modifier>normal</modifier>
+        <name>sys_embedded_help_content_list-normal</name>
+        <page>sys_embedded_help_content_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="embedded_help_admin" name="embedded_help_admin">4f13544687222200deddb882a2e3ec81</role>
+        <role_order>10</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-09-20 14:32:05</sys_created_on>
+        <sys_id>1915b446db5503003fa952b0cf961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_embedded_help_content_list-normal</sys_name>
+        <sys_package display_value="Registration Form" source="x_107407_registrat">3d9047a5dbd903003fa952b0cf961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Registration Form">3d9047a5dbd903003fa952b0cf961901</sys_scope>
+        <sys_update_name>sys_embedded_help_content_1915b446db5503003fa952b0cf961936</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-09-20 14:32:05</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=1915b446db5503003fa952b0cf961936"/>
+</record_update>
